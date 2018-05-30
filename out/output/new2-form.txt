@@ -1,0 +1,869 @@
+abq	concat	1
+ady	concat	2
+ady	drop left	5
+af	drop left	14
+af	glue e	1
+af	glue g	3
+af	glue k	1
+af	glue t	1
+af	glue u	1
+af	glue v	1
+af	glue w	1
+akk	drop left	2
+ale	drop left	1
+ang	concat	4
+ang	drop left	40
+ang	glue e	1
+ang	glue f	2
+ang	glue i	1
+ang	glue w	1
+ar	concat	20
+ar	drop left	170
+arc	drop left	36
+arn	drop left	1
+arz	drop left	7
+ast	drop left	23
+ast	glue c	1
+ast	glue l	1
+ast	glue p	1
+ast	glue x	1
+avd	drop left	1
+ba	drop left	1
+be	concat	1
+be	drop left	27
+bg	concat	20
+bg	drop left	265
+bg	glue -	2
+bn	drop left	2
+bo	drop left	2
+br	concat	5
+br	drop left	7
+br	glue g	1
+br	glue o	1
+br	glue v	1
+ca	concat	31
+ca	drop left	85
+ca	glue b	2
+ca	glue c	3
+ca	glue d	1
+ca	glue e	5
+ca	glue g	3
+ca	glue i	1
+ca	glue l	6
+ca	glue m	1
+ca	glue n	1
+ca	glue o	2
+ca	glue s	2
+ca	glue t	2
+ca	glue u	3
+ca	glue z	1
+ce	drop left	3
+chm	drop left	1
+cia	drop left	1
+ckb	drop left	3
+cmn	concat	67
+cmn	drop left	362
+com	drop left	1
+cs	concat	25
+cs	drop left	122
+cs	glue d	9
+cs	glue e	2
+cs	glue g	1
+cs	glue i	2
+cs	glue j	1
+cs	glue k	1
+cs	glue l	1
+cs	glue m	1
+cs	glue n	3
+cs	glue o	1
+cs	glue p	1
+cs	glue r	4
+cs	glue s	3
+cs	glue t	1
+cs	glue u	4
+cs	glue v	1
+cs	glue z	2
+csb	drop left	1
+cu	concat	1
+cu	drop left	57
+cy	concat	10
+cy	drop left	22
+cy	glue e	1
+cy	glue f	4
+cy	glue h	1
+cy	glue l	1
+cy	glue m	1
+cy	glue n	2
+cy	glue s	1
+cy	glue w	2
+da	concat	25
+da	drop left	141
+da	glue b	2
+da	glue d	1
+da	glue e	5
+da	glue f	1
+da	glue g	4
+da	glue h	6
+da	glue i	1
+da	glue k	5
+da	glue l	6
+da	glue n	1
+da	glue r	3
+da	glue s	10
+da	glue t	7
+de	concat	165
+de	drop left	457
+de	glue -	3
+de	glue a	2
+de	glue b	11
+de	glue c	1
+de	glue d	15
+de	glue e	7
+de	glue f	19
+de	glue g	24
+de	glue h	32
+de	glue i	4
+de	glue k	12
+de	glue l	19
+de	glue m	10
+de	glue n	12
+de	glue o	1
+de	glue p	3
+de	glue r	13
+de	glue s	21
+de	glue t	21
+de	glue u	4
+de	glue v	1
+de	glue w	2
+de	glue z	1
+dlm	drop left	2
+dlm	glue c	1
+dsb	drop left	6
+dsb	glue j	1
+dsb	glue m	1
+dum	drop left	3
+dum	glue f	1
+ee	glue a	1
+egy	drop left	3
+el	concat	30
+el	drop left	204
+en	concat	1086
+en	drop left	240
+en	glue -	8
+en	glue a	6
+en	glue b	4
+en	glue c	1
+en	glue d	4
+en	glue e	9
+en	glue f	4
+en	glue i	15
+en	glue l	2
+en	glue m	4
+en	glue p	5
+en	glue r	9
+en	glue s	6
+en	glue t	8
+en	glue u	1
+en	glue w	2
+en	glue y	2
+enm	drop left	2
+enm	glue s	1
+eo	concat	23
+eo	drop left	108
+eo	glue -	1
+eo	glue a	1
+eo	glue b	1
+eo	glue c	1
+eo	glue d	3
+eo	glue g	2
+eo	glue h	1
+eo	glue i	2
+eo	glue k	3
+eo	glue l	1
+eo	glue m	1
+eo	glue n	4
+eo	glue o	1
+eo	glue p	1
+eo	glue r	1
+eo	glue s	2
+eo	glue t	6
+eo	glue u	1
+eo	glue v	1
+es	concat	127
+es	drop left	283
+es	glue a	4
+es	glue b	10
+es	glue c	7
+es	glue d	3
+es	glue e	3
+es	glue f	1
+es	glue g	11
+es	glue i	2
+es	glue k	1
+es	glue l	6
+es	glue m	11
+es	glue n	5
+es	glue o	3
+es	glue p	9
+es	glue r	12
+es	glue s	7
+es	glue t	8
+es	glue u	2
+es	glue v	1
+et	concat	7
+et	drop left	10
+et	glue l	2
+et	glue m	1
+et	glue t	2
+et	glue u	1
+eu	concat	2
+eu	drop left	8
+fa	concat	54
+fa	drop left	439
+fi	concat	212
+fi	drop left	181
+fi	glue -	3
+fi	glue a	2
+fi	glue h	1
+fi	glue i	3
+fi	glue j	2
+fi	glue k	7
+fi	glue l	7
+fi	glue m	12
+fi	glue n	13
+fi	glue o	1
+fi	glue p	5
+fi	glue r	8
+fi	glue s	5
+fi	glue t	10
+fi	glue v	3
+fi	glue y	2
+fj	drop left	1
+fo	concat	2
+fo	drop left	45
+fo	glue l	1
+fo	glue n	2
+fo	glue s	1
+fr	concat	146
+fr	drop left	240
+fr	glue -	19
+fr	glue a	2
+fr	glue b	3
+fr	glue c	7
+fr	glue d	5
+fr	glue e	9
+fr	glue f	1
+fr	glue g	7
+fr	glue i	10
+fr	glue j	1
+fr	glue l	10
+fr	glue m	10
+fr	glue n	8
+fr	glue o	3
+fr	glue p	6
+fr	glue r	9
+fr	glue s	9
+fr	glue t	13
+fr	glue u	7
+fr	glue v	2
+fr	glue y	4
+frm	concat	1
+frm	drop left	2
+frm	glue o	1
+fro	concat	9
+fro	drop left	24
+fro	glue c	1
+fro	glue f	1
+fro	glue g	1
+fro	glue i	1
+fro	glue l	1
+fro	glue o	1
+fro	glue r	1
+fro	glue s	3
+fur	drop left	8
+fur	glue e	2
+fur	glue n	1
+fur	glue s	3
+fur	glue z	1
+fy	drop left	20
+fy	glue f	1
+fy	glue l	1
+fy	glue t	1
+ga	concat	27
+ga	drop left	108
+ga	glue -	1
+ga	glue a	5
+ga	glue b	3
+ga	glue c	1
+ga	glue d	4
+ga	glue e	2
+ga	glue f	1
+ga	glue i	5
+ga	glue l	2
+ga	glue m	4
+ga	glue n	3
+ga	glue r	2
+ga	glue s	1
+ga	glue t	3
+ga	glue u	1
+gd	concat	12
+gd	drop left	101
+gd	glue -	8
+gd	glue a	1
+gd	glue e	3
+gd	glue f	1
+gd	glue g	1
+gd	glue i	4
+gd	glue l	1
+gd	glue m	1
+gd	glue n	2
+gd	glue o	1
+gd	glue r	3
+gd	glue s	14
+gd	glue t	2
+gl	concat	7
+gl	drop left	51
+gl	glue a	2
+gl	glue c	1
+gl	glue g	1
+gl	glue h	1
+gl	glue i	2
+gl	glue l	1
+gl	glue n	3
+gl	glue v	1
+gn	glue i	1
+goh	drop left	1
+got	concat	1
+got	drop left	9
+grc	concat	1
+grc	drop left	1
+gv	concat	4
+gv	drop left	9
+gv	glue a	1
+gv	glue b	1
+gv	glue t	1
+haw	concat	1
+haw	drop left	24
+haw	glue h	1
+haw	glue i	1
+haw	glue k	2
+haw	glue l	2
+haw	glue n	1
+haw	glue r	1
+haw	glue t	1
+haw	glue u	2
+he	concat	13
+he	drop left	116
+hi	concat	6
+hi	drop left	35
+hit	drop left	4
+ht	drop left	3
+ht	glue m	1
+ht	glue s	1
+hu	concat	57
+hu	drop left	114
+hu	glue -	1
+hu	glue a	1
+hu	glue d	1
+hu	glue e	1
+hu	glue f	3
+hu	glue g	2
+hu	glue h	1
+hu	glue i	1
+hu	glue k	2
+hu	glue l	2
+hu	glue m	4
+hu	glue o	1
+hu	glue p	3
+hu	glue r	3
+hu	glue s	3
+hu	glue t	4
+hu	glue v	1
+hu	glue z	2
+hy	concat	32
+hy	drop left	63
+ia	concat	1
+ia	drop left	3
+ia	glue -	5
+ia	glue f	1
+id	drop left	12
+id	glue k	1
+id	glue l	1
+id	glue n	2
+id	glue p	2
+io	concat	1
+io	drop left	22
+io	glue a	1
+io	glue g	2
+io	glue i	2
+io	glue o	1
+io	glue p	1
+io	glue r	1
+io	glue s	1
+is	concat	20
+is	drop left	74
+is	glue a	4
+is	glue b	2
+is	glue f	2
+is	glue g	2
+is	glue m	1
+is	glue n	4
+is	glue r	4
+is	glue s	4
+it	concat	152
+it	drop left	495
+it	glue a	9
+it	glue b	13
+it	glue c	12
+it	glue d	5
+it	glue e	7
+it	glue f	10
+it	glue g	7
+it	glue i	7
+it	glue k	1
+it	glue l	17
+it	glue m	20
+it	glue n	26
+it	glue o	13
+it	glue p	10
+it	glue r	31
+it	glue s	75
+it	glue t	17
+it	glue u	8
+it	glue v	7
+it	glue z	3
+ja	concat	122
+ja	drop left	3556
+jbo	drop left	1
+jbo	glue g	1
+jbo	glue n	3
+jbo	glue r	2
+jbo	glue t	1
+jbo	glue v	1
+ka	concat	11
+ka	drop left	15
+kk	concat	1
+kk	drop left	1
+km	concat	1
+km	drop left	4
+kn	drop left	2
+ko	concat	48
+ko	drop left	536
+ku	concat	1
+ku	drop left	14
+ku	glue e	1
+ku	glue l	1
+ku	glue r	1
+ku	glue t	1
+kw	drop left	2
+la	concat	51
+la	drop left	214
+la	glue a	1
+la	glue b	5
+la	glue c	6
+la	glue d	21
+la	glue e	6
+la	glue g	2
+la	glue h	2
+la	glue i	13
+la	glue l	8
+la	glue m	5
+la	glue n	5
+la	glue p	2
+la	glue r	7
+la	glue s	7
+la	glue t	7
+la	glue u	1
+la	glue v	4
+la	glue x	1
+la	glue y	1
+lad	drop left	1
+lb	concat	2
+lb	drop left	25
+lb	glue e	1
+lb	glue f	1
+lb	glue i	1
+lb	glue l	3
+lb	glue r	2
+lb	glue t	1
+lkt	drop left	2
+lld	concat	1
+lld	drop left	7
+lo	concat	1
+lo	drop left	2
+lt	concat	4
+lt	drop left	3
+ltg	drop left	2
+lv	concat	4
+lv	drop left	66
+lv	glue e	2
+lv	glue i	5
+lv	glue k	1
+lv	glue p	1
+lv	glue r	1
+lv	glue s	1
+lv	glue u	1
+lv	glue v	2
+mfe	drop left	1
+mg	drop left	4
+mi	concat	7
+mi	drop left	34
+mi	glue e	1
+mi	glue h	1
+mi	glue n	2
+mi	glue t	2
+mk	concat	10
+mk	drop left	242
+mn	drop left	2
+ms	concat	19
+ms	drop left	39
+ms	glue -	1
+ms	glue i	1
+ms	glue k	1
+ms	glue l	5
+ms	glue m	1
+ms	glue n	4
+ms	glue p	4
+ms	glue r	1
+ms	glue s	1
+mt	drop left	3
+mul	concat	10
+my	drop left	1
+na	drop left	1
+nan	drop left	9
+nap	concat	1
+nap	drop left	5
+nb	concat	4
+nb	drop left	34
+nb	glue d	1
+nb	glue e	1
+nb	glue g	4
+nb	glue i	2
+nb	glue l	2
+nb	glue m	1
+nb	glue p	1
+nb	glue s	5
+nb	glue t	1
+nci	glue t	1
+nds	drop left	1
+nds	glue n	1
+nds-de	drop left	1
+ne	drop left	2
+nl	concat	249
+nl	drop left	347
+nl	glue a	2
+nl	glue b	4
+nl	glue d	15
+nl	glue e	12
+nl	glue f	3
+nl	glue g	53
+nl	glue h	10
+nl	glue i	2
+nl	glue j	4
+nl	glue k	15
+nl	glue l	9
+nl	glue m	10
+nl	glue n	11
+nl	glue o	3
+nl	glue p	9
+nl	glue r	12
+nl	glue s	21
+nl	glue t	26
+nl	glue u	2
+nl	glue v	25
+nl	glue w	5
+nl	glue x	2
+nl	glue z	10
+nn	concat	5
+nn	drop left	29
+nn	glue e	1
+nn	glue g	3
+nn	glue h	1
+nn	glue i	2
+nn	glue k	1
+nn	glue l	4
+nn	glue m	1
+nn	glue s	2
+no	concat	45
+no	drop left	85
+no	glue d	3
+no	glue e	4
+no	glue f	2
+no	glue g	1
+no	glue h	1
+no	glue i	1
+no	glue k	2
+no	glue l	1
+no	glue m	3
+no	glue n	1
+no	glue p	2
+no	glue r	1
+no	glue s	4
+no	glue t	3
+no	glue v	1
+non	drop left	10
+nov	drop left	26
+nov	glue -	5
+nov	glue g	4
+nov	glue k	1
+nov	glue r	3
+nrf	drop left	1
+nrf	glue -	2
+nrf	glue j	1
+nv	concat	1
+nv	drop left	6
+nv	glue a	1
+oc	concat	1
+oc	drop left	4
+oc	glue g	1
+oj	glue -	1
+or	drop left	5
+osx	drop left	10
+osx	glue a	1
+osx	glue d	3
+osx	glue g	1
+osx	glue i	1
+osx	glue k	1
+osx	glue n	1
+osx	glue s	1
+osx	glue t	2
+ota	drop left	7
+pa	drop left	2
+pl	concat	29
+pl	drop left	121
+pl	glue d	10
+pl	glue e	2
+pl	glue f	1
+pl	glue i	2
+pl	glue j	2
+pl	glue k	3
+pl	glue l	2
+pl	glue m	2
+pl	glue n	1
+pl	glue o	2
+pl	glue p	2
+pl	glue r	2
+pl	glue s	3
+pl	glue t	1
+pl	glue u	1
+pl	glue z	1
+ppl	drop left	1
+ps	concat	1
+ps	drop left	5
+pt	concat	92
+pt	drop left	185
+pt	glue -	16
+pt	glue a	1
+pt	glue b	2
+pt	glue c	1
+pt	glue d	1
+pt	glue e	3
+pt	glue g	6
+pt	glue i	2
+pt	glue l	2
+pt	glue m	1
+pt	glue n	1
+pt	glue o	1
+pt	glue p	3
+pt	glue r	5
+pt	glue s	3
+pt	glue u	1
+pt	glue v	2
+pt	glue x	1
+pt	glue y	1
+qu	drop left	2
+rap	drop left	1
+rm	drop left	34
+rm	glue g	1
+rm	glue i	1
+rm	glue m	3
+rm	glue n	3
+rm	glue r	1
+rm	glue s	1
+ro	concat	39
+ro	drop left	130
+ro	glue -	1
+ro	glue a	2
+ro	glue b	2
+ro	glue e	3
+ro	glue g	1
+ro	glue i	3
+ro	glue l	4
+ro	glue m	1
+ro	glue n	4
+ro	glue o	1
+ro	glue p	4
+ro	glue r	7
+ro	glue s	5
+ro	glue t	2
+ro	glue u	4
+ro	glue v	1
+ru	concat	173
+ru	drop left	1198
+ru	glue -	5
+rup	drop left	2
+rup	glue p	1
+sa	concat	1
+sa	drop left	16
+scn	drop left	7
+scn	glue g	1
+scn	glue n	1
+sco	drop left	11
+sco	glue g	1
+sco	glue n	1
+sga	drop left	20
+sga	glue d	1
+sga	glue n	1
+sgs	drop left	2
+sh	concat	44
+sh	drop left	892
+sh	glue -	4
+sh	glue a	4
+sh	glue b	3
+sh	glue d	6
+sh	glue e	3
+sh	glue f	1
+sh	glue g	7
+sh	glue h	3
+sh	glue i	2
+sh	glue j	6
+sh	glue k	2
+sh	glue l	5
+sh	glue m	3
+sh	glue n	5
+sh	glue o	3
+sh	glue p	5
+sh	glue r	6
+sh	glue s	10
+sh	glue t	7
+sh	glue u	4
+sh	glue v	6
+sh	glue z	5
+si	drop left	4
+sk	concat	5
+sk	drop left	23
+sk	glue k	1
+sk	glue s	1
+sl	concat	6
+sl	drop left	37
+sl	glue d	1
+sl	glue e	1
+sl	glue f	1
+sl	glue h	2
+sl	glue i	4
+sl	glue j	1
+sl	glue m	1
+sl	glue n	1
+sl	glue r	3
+sl	glue s	1
+sl	glue v	3
+sm	drop left	3
+sm	glue i	1
+sm	glue o	1
+sq	concat	1
+sq	drop left	37
+sq	glue e	1
+sq	glue h	1
+sq	glue l	3
+sq	glue n	2
+sq	glue o	1
+sq	glue r	2
+sv	concat	129
+sv	drop left	522
+sv	glue -	1
+sv	glue a	2
+sv	glue b	6
+sv	glue d	12
+sv	glue e	19
+sv	glue f	10
+sv	glue g	13
+sv	glue h	1
+sv	glue i	4
+sv	glue k	9
+sv	glue l	11
+sv	glue m	7
+sv	glue n	10
+sv	glue o	1
+sv	glue p	4
+sv	glue r	14
+sv	glue s	37
+sv	glue t	12
+sv	glue u	2
+sv	glue v	3
+sv	glue x	1
+sw	concat	2
+sw	drop left	16
+sw	glue a	1
+sw	glue m	2
+sw	glue n	2
+syc	concat	1
+syc	drop left	12
+te	concat	16
+te	drop left	19
+tg	concat	3
+tg	drop left	45
+th	concat	3
+th	drop left	9
+tk	drop left	1
+tl	concat	5
+tl	drop left	16
+tl	glue g	1
+tl	glue k	1
+tl	glue m	1
+tl	glue n	1
+tl	glue p	1
+tly	drop left	4
+tpi	concat	1
+tpi	drop left	3
+tpi	glue s	1
+tr	concat	32
+tr	drop left	30
+tr	glue d	1
+tr	glue g	1
+tr	glue h	1
+tr	glue l	1
+tr	glue m	2
+tr	glue n	1
+ty	drop left	2
+uga	drop left	12
+uk	concat	6
+uk	drop left	70
+ur	concat	2
+ur	drop left	61
+vec	drop left	27
+vec	glue a	1
+vec	glue d	1
+vec	glue j	1
+vec	glue l	1
+vec	glue m	1
+vec	glue n	2
+vec	glue o	1
+vec	glue t	1
+vi	concat	58
+vi	drop left	123
+vo	concat	4
+vo	drop left	93
+vo	glue b	1
+vo	glue d	2
+vo	glue e	1
+vo	glue f	1
+vo	glue k	1
+vo	glue l	2
+vo	glue m	1
+vo	glue p	1
+vo	glue r	1
+vo	glue s	4
+vo	glue t	1
+wa	drop left	10
+wa	glue -	1
+wlm	glue l	1
+wym	concat	1
+wym	drop left	1
+xcl	concat	4
+xcl	drop left	41
+yi	concat	3
+yi	drop left	11
+yue	drop left	5
+zh	concat	60
+zh	drop left	1070
+zu	drop left	2
