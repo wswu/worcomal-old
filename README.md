@@ -1,6 +1,6 @@
 # worcomal
 
-Modeling word compounding across languages.
+Modeling word compounding across languages. This code accompanies our paper [Massively Translingual Compound Analysis and Translation Discovery](https://www.aclweb.org/anthology/L18-1612/)
 
 # Demo
 
@@ -55,7 +55,7 @@ Compute counts for compounding mechanism.
 
     ./analyze.py -i out/output/new-all.tsv -o out/output/new-form.txt -d dictionaries/wiktionary.txt --steps form
 
-# Experiments
+## Experiments
 
 To recreate experiments:
 
@@ -67,3 +67,20 @@ f2e (if more than 10, the job gets killed for some reason)
 
     ./experiment.py --step f2e > f2e.1
 
+
+## Citation
+
+If you found this project useful, please cite:
+
+```
+@inproceedings{wu-yarowsky-2018-compounding,
+    title = "Massively Translingual Compound Analysis and Translation Discovery",
+    author = "Wu, Winston and Yarowsky, David",
+    booktitle = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018)",
+    month = may,
+    year = "2018",
+    address = "Miyazaki, Japan",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://www.aclweb.org/anthology/L18-1612",
+}
+```
